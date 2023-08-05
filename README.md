@@ -1,0 +1,2 @@
+# MyAltiumLibrary
+Altium Elements Lib
